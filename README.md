@@ -58,7 +58,7 @@ The checker assigns a score based on these criteria and categorizes the password
 
 Clone this repository to your local machine:
 
-git clone https://github.com/yourusername/password-strength-checker.git cd password-strength-checker
+git clone https://github.com/bhrainy-byte/PRODIGY_CS_03.git
 
 
 ## Usage
